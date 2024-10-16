@@ -46,7 +46,7 @@ git clone https://github.com/Abdalrhman-Olimat/get_next_line.git
 ```
 Compile the code:
 ```c
-cc -Wall -Wextra -Werror get_next_line.c get_next_line_utils.c main.c
+cc -Wall -Wextra -Werror -D BUFFER_SIZE=n get_next_line.c get_next_line_utils.c main.c 
 ```
 ## Usage
 

@@ -1,7 +1,9 @@
 # Get Next Line - Efficient Line Reader
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/alx-sch/42_get_next_line/main/.assets/get_next_linee.png" alt="get_next_line_badge.png" />
 </p>
+
 ## Introduction
 
 Welcome to my `Get Next Line project!` 🚀 Get Next Line (GNL) is a C function that reads a line from a file descriptor, making it easier to handle input from files or standard input one line at a time. This project demonstrates proficiency in file handling, dynamic memory management, and string manipulation, all essential skills for C programming.

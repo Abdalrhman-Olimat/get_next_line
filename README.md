@@ -32,7 +32,7 @@ Welcome to my `Get Next Line project!` 🚀 Get Next Line (GNL) is a C function 
 To support the core functionality, several helper functions are implemented:
 
 - `ft_strlen`: Calculates the length of a string.
-- `check_for_newline`: Check if the string contains a string.
+- `check_for_newline`: Check if the string contains a `\n`.
 - `ft_strjoin`: Concatenates two strings into a new string.
 
 ## Getting Started

@@ -116,26 +116,3 @@ char	*get_next_line(int fd)
 	}
 	return (line);
 }
-/*
-int	main(void)
-{
-        int             fd;
-        char    *line;
-
-        fd = open("abd.txt", O_RDWR);
-        if (fd < 0)
-        {
-                perror("Error opening file");
-                return (1);
-        }
-		line = get_next_line(fd);
-			printf("%s", line);
-        while ((line = get_next_line(fd)) != NULL)
-        {
-                printf("%s", line);
-                free(line);
-        }
-        close(fd);
-        return (0);
- }
-*/
